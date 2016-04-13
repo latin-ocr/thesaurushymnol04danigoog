@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./thesaurushymnol04danigoog/thesaurushymnol04danigoog_0397.png"; bbox 0 0 2904 5028; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 19 1861 1413 2216">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 19 1861 1413 2216">
+     <span class='ocr_line' id='line_1_1' title="bbox 383 1861 1212 2014; baseline 0.002 -51"><span class='ocrx_word' id='word_1_1' title='bbox 383 1861 639 1964; x_wconf 75' lang='lat' dir='ltr'><strong>mmm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 672 1863 737 1964; x_wconf 68' lang='lat' dir='ltr'>u</span> <span class='ocrx_word' id='word_1_3' title='bbox 771 1862 991 2014; x_wconf 72' lang='lat' dir='ltr'><strong>mn</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1209 1991 1212 2002; x_wconf 16' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 19 2032 1413 2216; baseline 0.004 -25"><span class='ocrx_word' id='word_1_5' title='bbox 19 2032 26 2070; x_wconf 40' lang='lat'><strong>&#39;⁵</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 152 2100 436 2194; x_wconf 76' lang='lat' dir='ltr'>EPISTOLA</span> <span class='ocrx_word' id='word_1_7' title='bbox 478 2046 709 2196; x_wconf 78' lang='lat' dir='ltr'>CRlTch</span> <span class='ocrx_word' id='word_1_8' title='bbox 748 2103 825 2194; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 867 2103 1219 2216; x_wconf 76' lang='lat' dir='ltr'><strong>SEQUENTHS.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1410 2085 1413 2092; x_wconf 83' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 585 2363 785 2372">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 585 2363 785 2372">
+     <span class='ocr_line' id='line_1_3' title="bbox 585 2363 785 2372; baseline 0.005 -1"><span class='ocrx_word' id='word_1_11' title='bbox 585 2363 785 2372; x_wconf 79' lang='lat'><em>——-——---—-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1456 5028">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1456 5028">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1456 5028; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1456 5028; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
